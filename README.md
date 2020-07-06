@@ -1,8 +1,8 @@
 # PyMySQL
  ## Verschiedene DB-Funktionen von MySQL in Python mit Hilfsbibliothek PyMySQL.
  
- Beispielprogramm *TestMySQL.py*:
- Alle Select-/Insert-/Update-Delete-Funktionen für eine Tabelle menügesteuert ausprogrammiert.
+ Beispielprogramm _**TestMySQL.py**_:  
+ Ausprogrammierte Select-/Insert-/Update-Delete-Funktionen für eine Tabelle, so gut es ging menügesteuert.
  
  *mysql.properties*: 
  Parameter zur Anmeldung an die MySQL-DB, die vom Python-Programm im Stil einer Java-Properties-Datei eingelesen werden. 
